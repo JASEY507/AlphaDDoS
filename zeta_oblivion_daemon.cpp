@@ -6,6 +6,7 @@
  * Derleme: g++ -std=c++17 -O2 -pthread -o zeta_oblivion_daemon zeta_oblivion_daemon.cpp -lcrypto -lssl
  */
 
+#include <mutex>
 #include <iostream>
 #include <fstream>
 #include <string>
