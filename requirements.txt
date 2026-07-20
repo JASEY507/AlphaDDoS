@@ -1,0 +1,4 @@
+dns
+requests
+paramiko
+pyOpenSSL
